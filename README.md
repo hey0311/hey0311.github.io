@@ -1,32 +1,32 @@
-# leopard
+# About
 
-[leopard](http://robotkang.cc) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
+This is my blog based on jekyll. And I change the style and interactive. If you want to use this model of the blog. **Please give a star at this repository**. Then you can clone it as your blog model.
+
+You can visit [here](http://gaohaoyang.github.io) to see this blog.
+
+---
+
+这是我的博客，基于 jekyll。我改了所有默认的样式和交互。如果你想使用这个博客模板。**请先在这个仓库上点个star吧**，这也是对我的肯定和鼓励，谢谢了。然后你可以克隆这个仓库用作你自己的博客。
+
+博客访问地址：[点击这里](http://gaohaoyang.github.io)
+
+**使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+
+<!--
+
+## 被引用信息
+
+使用了我的模板并写明来源的人：   
+
+* [dreamholy](http://dreamholy.github.io/)
+
+没有注明来源的人：
+
+* [yangshuailing](http://yangshuailing.github.io/com/)
+* [huapu728](http://huapu728.github.io/)
+* [greatbuger](http://greatbuger.github.io/) 
 
 
-可关注我的公众号进一步了解\(^o^)/~
-
-![world](http://omjh2j5h3.bkt.clouddn.com/kanggzh.png)
-
-### 使用条件
-
-Jekyll 支持 Mac 、Windows、ubuntu 、Linux 操作系统                     
-Jekyll 需要依赖：Ruby、bundler
-
-#### 获取博客模板
-
-> $ git clone https://github.com/MengZheK/kangblog.github.io.git  
-
-或者直接[下载博客](https://github.com/MengZheK/kangblog.github.io/archive/master.zip)   
-
-进kangblog.github.io/ 目录下， 开启本地服务 
-
-> $ bundle exec jekyll server
-
-在浏览器输入 [127.0.0.1:4000](127.0.0.1:4000) ， 就可以看到博客效果了。  
-
-### 提示
-如果在部署博客的时候发现问题，可以直接在[message](https://robotkang.cc/liuyan/)里面提问。        
+-->
 
 
-#### 感谢   
-本博客在[Jekyll搭建个人博客](http://baixin.io/2016/10/jekyll_tutorials1/)和[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
